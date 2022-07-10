@@ -182,8 +182,8 @@ ul.services-content {
 }
 
 .services-content li img {
-  width: 300px;
-  height: 300px;
+  width: 100%;
+  height: 100%;
 }
 
 .services-content li h4 {
