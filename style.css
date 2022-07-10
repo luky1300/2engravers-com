@@ -174,29 +174,19 @@ ul.services-content {
 }
 
 .services-content li img {
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
 }
 
-.services-content li h4 {
-  font-size: 20px;
-  margin-bottom: 25px;
-}
 .services-content li a {
   text-decoration: none;
   color: black;
-  font-size: 20px;
+  font-size: 30px;
 }
 @media (max-width: 1000px) {
   .services-content li {
     flex-basis: 100%;
     margin-bottom: 65px;
-  }
-  .services-content li:last-child {
-    margin-bottom: 0;
-  }
-  .services-content li p {
-    padding: 0;
   }
 }
 /*contact area*/
@@ -233,7 +223,7 @@ ul.contact-content {
 .contact-content li p {
   margin: 0;
   color: white;
-  font-size: 20px;
+  font-size: 25px;
 }
 @media (max-width: 1000px) {
   .contact-content li {
